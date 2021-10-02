@@ -60,6 +60,9 @@ h1{
 	.col-lg-4{
 		width: 50%;
 	}
+	.col-lg-12{
+		width: 100%;
+	}
 }
 
 
